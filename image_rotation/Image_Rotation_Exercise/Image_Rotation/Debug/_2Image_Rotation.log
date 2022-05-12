@@ -1,0 +1,43 @@
+﻿  main.cpp
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(23,57): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(23,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(29,17): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(30,17): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(33,34): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(36,87): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(37,48): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(40,43): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(41,75): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(44,52): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(77,60): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(77,45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(103,37): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(104,38): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(135,60): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(135,45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(161,37): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(162,38): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(179,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(179,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(180,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(180,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(181,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(181,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(182,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(182,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(189,37): warning C4244: '=': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(190,37): warning C4244: '=': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Image_Rotation\main.cpp(191,37): warning C4244: '=': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+  _2Image_Rotation.vcxproj -> D:\학교\컴퓨터비전\CPBDDV7O3QU2W\Image_Rotation_Exercise\Debug\Image_Rotation.exe
